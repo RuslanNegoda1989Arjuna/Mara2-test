@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Mara2-test/static/css/main.c687d54a.css",
-    "main.js": "/Mara2-test/static/js/main.daa9238a.js",
+    "main.js": "/Mara2-test/static/js/main.21f62e9c.js",
     "index.html": "/Mara2-test/index.html",
     "main.c687d54a.css.map": "/Mara2-test/static/css/main.c687d54a.css.map",
-    "main.daa9238a.js.map": "/Mara2-test/static/js/main.daa9238a.js.map"
+    "main.21f62e9c.js.map": "/Mara2-test/static/js/main.21f62e9c.js.map"
   },
   "entrypoints": [
     "static/css/main.c687d54a.css",
-    "static/js/main.daa9238a.js"
+    "static/js/main.21f62e9c.js"
   ]
 }
